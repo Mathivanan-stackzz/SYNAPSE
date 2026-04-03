@@ -1,3 +1,5 @@
+"see through CODE view for better understanding" 
+
 Project Synapse: AI-Driven V2X Communication System
 Advanced Data Compression & Transmission for Automotive Safety
 Project Overview
